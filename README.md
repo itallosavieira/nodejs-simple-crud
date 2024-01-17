@@ -8,10 +8,10 @@ This repository provides a minimalistic example of a CRUD application using Node
 
 ## Features
 
-- **Create:** Add new items to the database.
-- **Read:** Retrieve and display existing items from the database.
+- **Create:** Add new items.
+- **Read:** Retrieve and display existing items.
 - **Update:** Modify and update item details.
-- **Delete:** Remove items from the database.
+- **Delete:** Remove items.
 
 ## Getting Started
 
